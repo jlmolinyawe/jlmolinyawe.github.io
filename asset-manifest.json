@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.d1b05096.chunk.css",
-    "main.js": "/gh-pages/static/js/main.92fd0928.chunk.js",
-    "main.js.map": "/gh-pages/static/js/main.92fd0928.chunk.js.map",
-    "runtime-main.js": "/gh-pages/static/js/runtime-main.bb6b16c6.js",
-    "runtime-main.js.map": "/gh-pages/static/js/runtime-main.bb6b16c6.js.map",
-    "static/js/2.cabc248b.chunk.js": "/gh-pages/static/js/2.cabc248b.chunk.js",
-    "static/js/2.cabc248b.chunk.js.map": "/gh-pages/static/js/2.cabc248b.chunk.js.map",
-    "index.html": "/gh-pages/index.html",
-    "precache-manifest.097ede07dc416b37ef6737eaab6d6e14.js": "/gh-pages/precache-manifest.097ede07dc416b37ef6737eaab6d6e14.js",
-    "service-worker.js": "/gh-pages/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/gh-pages/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.cabc248b.chunk.js.LICENSE": "/gh-pages/static/js/2.cabc248b.chunk.js.LICENSE",
-    "static/media/logo.svg": "/gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/jlmolinyawe.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jlmolinyawe.github.io/static/js/main.611dbed8.chunk.js",
+    "main.js.map": "/jlmolinyawe.github.io/static/js/main.611dbed8.chunk.js.map",
+    "runtime-main.js": "/jlmolinyawe.github.io/static/js/runtime-main.ea9534e1.js",
+    "runtime-main.js.map": "/jlmolinyawe.github.io/static/js/runtime-main.ea9534e1.js.map",
+    "static/js/2.cabc248b.chunk.js": "/jlmolinyawe.github.io/static/js/2.cabc248b.chunk.js",
+    "static/js/2.cabc248b.chunk.js.map": "/jlmolinyawe.github.io/static/js/2.cabc248b.chunk.js.map",
+    "index.html": "/jlmolinyawe.github.io/index.html",
+    "precache-manifest.22c419202bf64ea2f533767423fc9196.js": "/jlmolinyawe.github.io/precache-manifest.22c419202bf64ea2f533767423fc9196.js",
+    "service-worker.js": "/jlmolinyawe.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jlmolinyawe.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.cabc248b.chunk.js.LICENSE": "/jlmolinyawe.github.io/static/js/2.cabc248b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/jlmolinyawe.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb6b16c6.js",
+    "static/js/runtime-main.ea9534e1.js",
     "static/js/2.cabc248b.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.92fd0928.chunk.js"
+    "static/js/main.611dbed8.chunk.js"
   ]
 }
